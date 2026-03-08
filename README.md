@@ -15,4 +15,6 @@ O objetivo foi aplicar conceitos básicos de análise exploratória de dados, tr
 🎯 Aprendizados
 Além de exercitar técnicas de análise, este projeto marcou minha jornada inicial no mundo dos dados: desde importar arquivos e estruturar tabelas até pensar em como contar uma história clara por meio de gráficos e dashboards.
 
+Link do dashboard: https://alunocefetmgbr-my.sharepoint.com/:u:/g/personal/miguel_carvalho_aluno_cefetmg_br/IQA6sUwouu5CSoeqZvBt7ClwAYWCONfeKTwnR2-MBAtK9dc?e=q4OSlC.
+
 🤓 Se você quer saber mais detalhes de como foi a minha experiência e/ou detalhes sobre a construção desse projeto, eu escrevi sobre na minha página no Medium: https://medium.com/@miguelaugustot.carvalho/meu-primeiro-projeto-de-an%C3%A1lise-de-dados-um-breve-panorama-de-acidentes-ocorridos-na-br-381-c04d65d5b4a4?postPublishedType=repub.
