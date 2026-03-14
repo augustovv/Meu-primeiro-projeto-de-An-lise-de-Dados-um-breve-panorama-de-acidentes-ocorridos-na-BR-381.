@@ -2,7 +2,7 @@
 
 Este repositório reúne meu primeiro projeto prático de análise de dados, onde explorei acidentes ocorridos na BR-381 entre julho de 2025 e janeiro de 2026.
 
-O objetivo foi aplicar conceitos básicos de análise exploratória de dados, transformando informações brutas em insights visuais e perguntas relevantes.
+O objetivo foi aplicar conceitos básicos de análise exploratória de dados e desenvolver minhas habilidades nas ferramentas clássicas para análise de dados utilizando um dataset real.
 
 🚀 Habilidades trabalhadas
 
